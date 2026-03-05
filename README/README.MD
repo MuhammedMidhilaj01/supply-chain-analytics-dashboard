@@ -58,10 +58,6 @@ Forecasting helps businesses:
 ## Power BI Dashboard
 A Power BI dashboard was created to visualize key supply chain metrics and insights.
 
-## Dashboard Preview
-
-![Supply Chain Dashboard](dashboard.png)
-
 ## Key Metrics
 
 - Total Sales
@@ -79,4 +75,8 @@ A Power BI dashboard was created to visualize key supply chain metrics and insig
 ---
 
 ## Conclusion
+
 This project shows how data analysis and visualization can be used to understand supply chain performance. By identifying sales trends, customer behavior, and delivery risks, businesses can make better decisions about inventory, logistics, and demand planning.
+
+Author
+Muhammed Midhilaj E
